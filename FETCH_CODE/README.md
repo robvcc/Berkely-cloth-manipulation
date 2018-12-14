@@ -1,4 +1,4 @@
-# Fetch_coreFROM https://github.com/BerkeleyAutomation
+# Fetch_core FROM https://github.com/BerkeleyAutomation
 This is our interface for the Fetch. 
 
 Partial list of requirements:
